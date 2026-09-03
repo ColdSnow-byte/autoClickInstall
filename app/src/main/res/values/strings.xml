@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">自动安装确认</string>
+
+    <string name="acc_service_label">自动安装确认</string>
+    <string name="acc_service_description">监视小米澎湃 OS / MIUI 的应用安装确认弹窗，自动点击「确定」「安装」「继续安装」等按钮。仅在系统安装器界面生效，不会读取屏幕内容或收集任何数据。</string>
+
+    <string name="status_shizuku">Shizuku 授权</string>
+    <string name="status_accessibility">无障碍服务</string>
+
+    <string name="shizuku_authorized">已授权</string>
+    <string name="shizuku_not_granted">未授权</string>
+    <string name="shizuku_waiting">等待连接</string>
+    <string name="shizuku_not_installed">未安装</string>
+
+    <string name="service_running">运行中</string>
+    <string name="service_stopped">未运行</string>
+</resources>
